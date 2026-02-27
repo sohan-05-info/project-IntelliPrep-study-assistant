@@ -18,6 +18,9 @@ IntelliPrep solves this by:
 > Generating structured answers using an LLM
 > Suggesting related YouTube videos automatically
 
+How to run?
+> In terminal, active the virtual environment first and then type "streamlit src/main.py".
+
 
 🧑‍🎓 Who Is It For?
 
