@@ -75,11 +75,13 @@ The system generates:
 6️⃣ YouTube Recommendation Engine:-
 
 The system:
-> Takes user query
-> Searches YouTube using YouTubeSearchPython
-> Suggests top 3 relevant videos
+1. Takes user query
+2. Searches YouTube using YouTubeSearchPython
+3. Suggests top 3 relevant videos
 
-This creates a hybrid learning experience: Text explanation and Video reinforcement
+This creates a hybrid learning experience: 
+1. Text explanation
+2. Video reinforcement
 
 
 **Tech Stack**:- 
@@ -94,10 +96,10 @@ This creates a hybrid learning experience: Text explanation and Video reinforcem
 
 📈 Future Expansion Possibilities:-
 
-> Resume-based question generation
-> Interview simulation
-> Performance analytics dashboard
-> User authentication
-> MCQ testing system
-> Admin panel
-> Cloud deployment
+1. Resume-based question generation
+2. Interview simulation
+3. Performance analytics dashboard
+4. User authentication
+5. MCQ testing system
+6. Admin panel
+7. Cloud deployment
